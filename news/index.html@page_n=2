@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    
+    
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    
+    
+    <base href="" />
+    <script type="text/javascript" src="http://www.aplisens.ru/assets/js/lib/jquery.min.js"></script>
+    <link rel="shortcut icon" href="../favicon.ico">
+    <meta name="keywords" content="">
+    <meta name="description" content="Новости компании Aplisens: все самое актуальное ">
+    <title>Новости</title>    
+    
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter9197413 = new Ya.Metrika({
+                    id:9197413,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/9197413" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-72727020-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<link rel="stylesheet" href="../assets/components/minifyx/cache/styles_bb59fb7b58.min.css" type="text/css" />
+<link rel="stylesheet" href="../assets/components/msearch2/css/web/default.css" type="text/css" />
+<link rel="stylesheet" href="../assets/components/pdotools/css/pdopage.css" type="text/css" />
+<script type="text/javascript">pdoPage = {callbacks: {}, keys: {}, configs: {}};</script>
+<script type="text/javascript">TicketsConfig={"ctx":"web","jsUrl":"\/assets\/components\/tickets\/js\/web\/","cssUrl":"\/assets\/components\/tickets\/css\/web\/","actionUrl":"\/assets\/components\/tickets\/action.php","close_all_message":"\u0437\u0430\u043a\u0440\u044b\u0442\u044c \u0432\u0441\u0435","tpanel":0,"enable_editor":1};</script>
+<script type="text/javascript">TicketsConfig.editor={ticket: {onTab: {keepDefault:false, replaceWith:"	"}
+		,markupSet: [
+			{name:"Bold", className: "btn-bold", key:"B", openWith:"<b>", closeWith:"</b>" }
+			,{name:"Italic", className: "btn-italic", key:"I", openWith:"<i>", closeWith:"</i>"  }
+			,{name:"Underline", className: "btn-underline", key:"U", openWith:"<u>", closeWith:"</u>" }
+			,{name:"Stroke through", className: "btn-stroke", key:"S", openWith:"<s>", closeWith:"</s>" }
+			,{separator:"---------------" }
+			,{name:"Bulleted List", className: "btn-bulleted", openWith:"	<li>", closeWith:"</li>", multiline:true, openBlockWith:"<ul>\n", closeBlockWith:"\n</ul>"}
+			,{name:"Numeric List", className: "btn-numeric", openWith:"	<li>", closeWith:"</li>", multiline:true, openBlockWith:"<ol>\n", closeBlockWith:"\n</ol>"}
+			,{separator:"---------------" }
+			,{name:"Quote", className: "btn-quote", openWith:"<blockquote>", closeWith:"</blockquote>"}
+			,{name:"Code", className: "btn-code", openWith:"<code>", closeWith:"</code>"}
+			,{name:"Link", className: "btn-link", openWith:"<a href="http://www.aplisens.ru/\&quot;[![Link:!:http://]!]\&quot;">", closeWith:"</a>" }
+			,{name:"Picture", className: "btn-picture", replaceWith:"<img src="http://www.aplisens.ru/\&quot;[![Source:!:http://]!]\&quot;" />" }
+			,{separator:"---------------" }
+			,{name:"Cut", className: "btn-cut", openWith:"<cut/>" }
+		]},comment: {onTab: {keepDefault:false, replaceWith:"	"}
+		,markupSet: [
+			{name:"Bold", className: "btn-bold", key:"B", openWith:"<b>", closeWith:"</b>" }
+			,{name:"Italic", className: "btn-italic", key:"I", openWith:"<i>", closeWith:"</i>"  }
+			,{name:"Underline", className: "btn-underline", key:"U", openWith:"<u>", closeWith:"</u>" }
+			,{name:"Stroke through", className: "btn-stroke", key:"S", openWith:"<s>", closeWith:"</s>" }
+			,{separator:"---------------" }
+			,{name:"Quote", className: "btn-quote", openWith:"<blockquote>", closeWith:"</blockquote>"}
+			,{name:"Code", className: "btn-code", openWith:"<code>", closeWith:"</code>"}
+			,{name:"Link", className: "btn-link", openWith:"<a href="http://www.aplisens.ru/\&quot;[![Link:!:http://]!]\&quot;">", closeWith:"</a>" }
+			,{name:"Picture", className: "btn-picture", replaceWith:"<img src="http://www.aplisens.ru/\&quot;[![Source:!:http://]!]\&quot;" />" }
+		]}};</script>
+<link rel="stylesheet" href="../assets/components/tickets/js/web/editor/editor.css" type="text/css" />
+<link rel="stylesheet" href="../assets/components/tickets/css/web/default.css" type="text/css" />
+<link rel="prev" href="index.html@page_n=1"/>
+<link rel="next" href="index.html@page_n=3"/>
+</head> 
+
+
+    <body>
+        <div class="wrapper">
+            <header class="desktop-header">
+    <div class="section-content">
+        <ul class="customer-menu">
+            <li class="phones">
+                <i class="icon-phone"></i><span>8 800 700-22-76 <span>Бесплатно по всей России</span></span>
+                <ul>
+                    <li>
+                        <a href="tel:8 800 700-22-76">8 800 700-22-76</a>
+                    </li>
+                    <li>
+                        <a href="tel:+7(495) 989-22-76">+7(495) 989-22-76</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="mail"><i class="icon-mail"></i><a href="mailto:info@aplisens.ru">info@aplisens.ru</a></li>
+            
+        </ul>
+        <div class="logo">
+            <a href="../assets/images/tickets/P-P%253AP%253EP=P%253EP%253CP8Q%2507P=Q%250BP8_P�Q">
+                <img src="../assets/img/logo.png" alt="">
+            </a>
+            
+        </div>
+        <nav class="navigation">
+             <ul>
+                 <li class="m-search"><form action="http://www.aplisens.ru/sluzhebnyie/search-result/" method="get"  id="mse2_form" >
+    <div class="input-box no-input">
+        <button type="submit" class="js_search-btn"><i class="icon-search"></i></button>
+        <input type="text"name="query" placeholder="Поиск на сайте" value="">
+    </div>
+</form></li>
+                 <li class="first"><a href="../catalog/index.html" >Каталог</a><ul><li class="first"><a href="../catalog/download-catalog/index.html" >Скачать каталог</a></li></ul></li><li><a href="../about/index.html" >О компании</a><ul><li class="first active"><span>Новости</span></li><li><a href="../about/team/index.html" >Команда Aplisens</a></li><li><a href="../about/nashi-czeli-i-dostizheniya/index.html" >Наши цели и достижения</a></li><li><a href="../about/osnovnyie-napravleniya-deyatelnosti/index.html" >Основные направления деятельности</a></li><li class="last"><a href="../about/istoriya-kompanii/index.html" >История компании</a></li></ul></li><li><a href="../support/index.html" >Техническая информация</a><ul><li class="first"><a href="../support/faq/index.html" >Часто задаваемые вопросы (FAQ)</a></li><li><a href="../support/oprosnyij-list/index.html" >Опросные лист</a></li><li><a href="../support/texnicheskaya-dokumentacziya/index.html" >Техническая документация</a></li><li class="last"><a href="../support/programmnoe-obespechenie/index.html" >Программное обеспечение</a></li></ul></li><li><a href="../dlya-klientov/index.html" >Для клиентов</a><ul><li class="first"><a href="../dlya-klientov/stati-v-presse/index.html" >Статьи в прессе</a></li><li><a href="../dlya-klientov/otzyivyi-o-kompanii/index.html" >Отзывы</a></li><li class="last"><a href="../dlya-klientov/uchastie-v-vyistavkax/index.html" >Участие в выставках</a></li></ul></li><li class="last"><a href="../kontaktyi/contacts/index.html" >Контакты</a><ul><li class="first"><a href="../kontaktyi/contacts/index.html" >Контакты</a></li><li class="last"><a href="../kontaktyi/dilerskaya-set/index.html" >Дилерская сеть</a></li></ul></li>
+             </ul>
+        </nav>
+        <p class="slogan"><span>Производство и поставка контрольно-измерительной аппаратуры</span></p>
+    </div>
+</header>
+<header class="mobile-header">
+    <div class="logo">
+        <a href="../assets/images/tickets/P-P%253AP%253EP=P%253EP%253CP8Q%2507P=Q%250BP8_P�Q">
+            <img src="../assets/img/logo.png" alt="">
+        </a>
+    </div>
+    <div class="menu-button">
+        <a href="../assets/images/tickets/P-P%253AP%253EP=P%253EP%253CP8Q%2507P=Q%250BP8_P�Q#" class="js_mobile-nav"></a>
+    </div>
+    <ul class="customer-menu">
+        <li class="mob-search">
+            <form action="http://www.aplisens.ru/sluzhebnyie/search-result/" method="get"  id="mse2_form" >
+    <div class="input-box no-input">
+        <button type="submit" class="js_mSearch-btn"><i class="icon-search"></i></button>
+        <input type="text"name="query" placeholder="Поиск на сайте" value="">
+    </div>
+</form>
+        </li>
+        <li class="phones">
+            <a href="../assets/images/tickets/P-P%253AP%253EP=P%253EP%253CP8Q%2507P=Q%250BP8_P�Q#" class="js_mobile-phones"><i class="icon-phone"></i></a>
+            <ul>
+                <li>
+                    <a href="tel:8 800 700-22-76">8 800 700-22-76</a>
+                </li>
+                <li>
+                    <a href="tel:+7(495) 989-22-76">+7(495) 989-22-76</a>
+                </li>
+            </ul>
+        </li>
+        <li class="mail"><a href="mailto:info@aplisens.ru"><i class="icon-mail"></i></a></li>
+        
+    </ul>
+</header>
+
+            <div class="main">
+                <section class="section-wide">
+                    <div class="section-content news">
+                        <div class="news-top">
+                            <p class="section-title">Новости</p>
+                        </div>
+                        <div id="pdopage_news">
+                            <div class="row">
+                                <div class="news-item">
+    <div class="news-image" style="background: url('../assets/cache_image/tickets/8ca423b9d7503701233efb8f1164815e_410x260_692.jpg') center center no-repeat">
+        <a href="189-ezhegodnaya-itogovaya-vstrecha-regionalnyix-predstavitelej/index.html">
+            <span class="shadow"></span>
+        </a>
+    </div>
+    <div class="news-body">
+        <p class="news-title"><a href="189-ezhegodnaya-itogovaya-vstrecha-regionalnyix-predstavitelej/index.html">Ежегодная итоговая встреча региональных представителей</a></p>
+        <span class="date">23.12.2015</span>
+        <p class="text">10 декабря 2015 года состоялась ежегодная встреча региональных представителей компании «АПЛИСЕНС».</p>
+    </div>
+</div>
+<div class="news-item">
+    <div class="news-image" style="background: url('../assets/cache_image/tickets/den_energetika_410x260_8bd.png') center center no-repeat">
+        <a href="253-22-dekabrya-den-energetika/index.html">
+            <span class="shadow"></span>
+        </a>
+    </div>
+    <div class="news-body">
+        <p class="news-title"><a href="253-22-dekabrya-den-energetika/index.html">22 декабря - День Энергетика</a></p>
+        <span class="date">22.12.2015</span>
+        <p class="text">Пожелаем Вам в этот день нескончаемой жизненной энергии, благополучия, радости и счастья Вам и Вашим семьям. С праздником!</p>
+    </div>
+</div>
+<div class="news-item">
+    <div class="news-image" style="background: url('../assets/cache_image/category/7edc41f7bbb5f89e0806cd5419faabed_410x260_692.jpg') center center no-repeat">
+        <a href="196-vnimanie!-uchastilis-sluchai-moshennichestva-na-ryinke-postavok-kontrolno-izmeritelnoj-apparaturyi!/index.html">
+            <span class="shadow"></span>
+        </a>
+    </div>
+    <div class="news-body">
+        <p class="news-title"><a href="196-vnimanie!-uchastilis-sluchai-moshennichestva-na-ryinke-postavok-kontrolno-izmeritelnoj-apparaturyi!/index.html">Внимание! Участились случаи мошенничества на рынке поставок контрольно-измерительной аппаратуры!</a></p>
+        <span class="date">02.12.2015</span>
+        <p class="text">Как правило, малоизвестные фирмы, предлагают поставку оборудования с очень привлекательными условиями (цена, сроки и условия поставки).</p>
+    </div>
+</div>
+<div class="news-item">
+    <div class="news-image" style="background: url('../assets/cache_image/tickets/vistavka_ufa_410x260_692.jpg') center center no-repeat">
+        <a href="254-uchastie-v-vyistavke-neft.-gaz.-texnologiya-2015-(g.ufa)/index.html">
+            <span class="shadow"></span>
+        </a>
+    </div>
+    <div class="news-body">
+        <p class="news-title"><a href="254-uchastie-v-vyistavke-neft.-gaz.-texnologiya-2015-(g.ufa)/index.html">Участие в выставке "НЕФТЬ. ГАЗ. ТЕХНОЛОГИЯ-2015" (г.Уфа)</a></p>
+        <span class="date">01.06.2015</span>
+        <p class="text">20-23 мая 2015 года компания «АПЛИСЕНС» приняла участие в выставке «НЕФТЬ. ГАЗ. ТЕХНОЛОГИЯ-2015» (г.Уфа)</p>
+    </div>
+</div>
+<div class="news-item">
+    <div class="news-image" style="background: url('../assets/cache_image/tickets/1e8db5bf48e435dac8ca2b5b5788dabc_410x260_692.jpg') center center no-repeat">
+        <a href="191-uchastie-v-viii-voronezhskom-promyishlennom-forume/index.html">
+            <span class="shadow"></span>
+        </a>
+    </div>
+    <div class="news-body">
+        <p class="news-title"><a href="191-uchastie-v-viii-voronezhskom-promyishlennom-forume/index.html">Участие в VIII Воронежском промышленном форуме</a></p>
+        <span class="date">02.03.2015</span>
+        <p class="text">24-26 февраля 2015 года компания «АПЛИСЕНС» приняла участие в VIII Воронежском промышленном форуме.</p>
+    </div>
+</div>
+<div class="news-item">
+    <div class="news-image" style="background: url('../assets/cache_image/tickets/6deae63063f1d4e1ed4131d53b5aabfc_410x260_692.jpg') center center no-repeat">
+        <a href="190-otkryitie-novogo-ofisa-kompanii-aplisens/index.html">
+            <span class="shadow"></span>
+        </a>
+    </div>
+    <div class="news-body">
+        <p class="news-title"><a href="190-otkryitie-novogo-ofisa-kompanii-aplisens/index.html">Открытие нового офиса компании "АПЛИСЕНС"</a></p>
+        <span class="date">18.02.2015</span>
+        <p class="text">Компания «АПЛИСЕНС» завершила строительство и переехала в еще более просторный офис, площадью около 2000 кв.м</p>
+    </div>
+</div>
+<div class="news-item">
+    <div class="news-image" style="background: url('../assets/cache_image/tickets/vistavka_pap_2014_410x260_692.jpg') center center no-repeat">
+        <a href="255-uchastie-na-vyistavke-B+pap-for-2014B%3B/index.html">
+            <span class="shadow"></span>
+        </a>
+    </div>
+    <div class="news-body">
+        <p class="news-title"><a href="255-uchastie-na-vyistavke-B+pap-for-2014B%3B/index.html">Участие на выставке «PAP-FOR-2014»</a></p>
+        <span class="date">29.10.2014</span>
+        <p class="text">28-31 октября 2014 года компания «АПЛИСЕНС» впервые приняла участие на выставке «PAP-FOR-2014» в г. Санкт-Петербург, посвященной бумажной промышленности.</p>
+    </div>
+</div>
+<div class="news-item">
+    <div class="news-image" style="background: url('../assets/cache_image/tickets/vistavka_perm_410x260_692.jpg') center center no-repeat">
+        <a href="256-uchastie-na-vyistavke-neft-i-gaz.-ximiya-2014B%3B/index.html">
+            <span class="shadow"></span>
+        </a>
+    </div>
+    <div class="news-body">
+        <p class="news-title"><a href="256-uchastie-na-vyistavke-neft-i-gaz.-ximiya-2014B%3B/index.html">Участие на выставке "НЕФТЬ И ГАЗ. ХИМИЯ-2014»</a></p>
+        <span class="date">20.10.2014</span>
+        <p class="text">14-17 октября 2014 года компания «АПЛИСЕНС» в качестве участника посетила выставку «НЕФТЬ И ГАЗ. ХИМИЯ-2014 в г. Пермь.</p>
+    </div>
+</div>
+                            </div>
+                            <div class="pagination_news"><ul class="pagination pagination_news"><li>Страница</li><li><a href="index.html@page_n=1">1</a></li><li class="active"><a href="index.html@page_n=2">2</a></li><li><a href="index.html@page_n=3">3</a></li><li><a href="index.html@page_n=4">4</a></li></ul></div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+         <!--
+{literal}
+-->
+<script type='text/javascript'>
+window['li'+'v'+'e'+'Tex'] = true,
+window['liv'+'eTe'+'x'+'I'+'D'] = 122641,
+window['liveTe'+'x_o'+'bject'] = true;
+(function()
+{ var t = document['cre'+'at'+'eEleme'+'n'+'t']('script'); t.type ='text/javascript'; t.async = true; t.src = '//cs15.'+'livete'+'x.ru/js/clie'+'nt.js'; var c = document['g'+'etE'+'lementsByT'+'a'+'gName']('script')[0]; if ( c ) c['pa'+'r'+'ent'+'Node']['inser'+'tBefo'+'re'](t, c); else document['docum'+'entEle'+'m'+'ent']['fir'+'stChi'+'ld']['app'+'e'+'nd'+'Chil'+'d'](t); }
+)();
+</script>
+<!--
+{/literal}
+-->
+ <footer class="footer-desktop">
+    
+    <div class="footer-middle">
+        <div class="footer-content">
+            <div class="col-left">
+                <ul>
+                    <li><a href="../assets/images/tickets/P-P%253AP%253EP=P%253EP%253CP8Q%2507P=Q%250BP8_P�Q#"><img src="../assets/img/footer-img1.jpg" alt=""></a></li>
+                    <li><a href="../assets/images/tickets/P-P%253AP%253EP=P%253EP%253CP8Q%2507P=Q%250BP8_P�Q#"><img src="../assets/img/footer-img2.jpg" alt=""></a></li>
+                    <li><a href="../assets/images/tickets/P-P%253AP%253EP=P%253EP%253CP8Q%2507P=Q%250BP8_P�Q#"><img src="../assets/img/footer-img3.jpg" alt=""></a></li>
+                    <li><a href="../assets/images/tickets/P-P%253AP%253EP=P%253EP%253CP8Q%2507P=Q%250BP8_P�Q#"><img src="../assets/img/footer-img4.jpg" alt=""></a></li>
+                </ul>
+            </div>
+            <div class="col-middle"></div>
+            <div class="col-right">
+                <ul>
+                    <li><a href="http://www.aplisens.pl/" target="_blank" title="Представительство в Польше"><img src="../assets/img/poland.jpg" alt=""></a></li>
+                    <li><a href="http://www.aplisens.by/" target="_blank" title="Представительство в Белоруссии"><img src="../assets/img/belarus.jpg" alt=""></a></li>
+                    <li><a href="http://www.aplisens.com.ua/" target="_blank" title="Представительство на Украине"><img src="../assets/img/ukraine.jpg" alt=""></a></li>
+                </ul>
+                <span>- представительства Aplisens S. A</span>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <div class="footer-content">
+            <div class="footer-nav">
+                <ul>
+                    <li>
+                        <i class="icon-phone"></i><a href="tel:8 800 700-22-76">8 800 700-22-76</a>
+                    </li>
+                    <li>
+                        <i class="icon-phone"></i><a href="tel:+7(495) 989-22-76">+7(495) 989-22-76</a>
+                    </li>
+                    <li>
+                        <i class="icon-mail"></i><a href="mailto:info@aplisens.ru">info@aplisens.ru</a>
+                    </li>
+                    <li>
+                        <i class="icon-location"></i><span>142450, Московская область, Ногинский район, г. Старая Купавна, ул. Придорожная, д. 34</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="dev-copy">
+                <p class="copyright">&copy; 2006-2016&mdash;ООО &laquo;АПЛИСЕНС&raquo;. Производство и поставка контрольно-измерительной аппаратуры.</p>
+            </div>
+        </div>
+    </div>
+</footer>
+<div class="mobile-nav-wrap">
+    <span class="close-menu js_close-menu"><i class="icon-cross"></i></span>
+    <div class="nav-table">
+        <div class="menu-row">
+            <ul>
+                <li><a href="../catalog/index.html"  class="first js_nav-ac" >Каталог</a> <ul class="second-level"><li   class="first"><a href="../catalog/download-catalog/index.html">Скачать каталог</a></li></ul></li><li><a href="../about/index.html"  class="js_nav-ac" >О компании</a> <ul class="second-level"><li   class="first active"><a href="index.html@page_n=1">Новости</a></li><li  ><a href="../about/team/index.html">Команда Aplisens</a></li><li  ><a href="../about/nashi-czeli-i-dostizheniya/index.html">Наши цели и достижения</a></li><li  ><a href="../about/osnovnyie-napravleniya-deyatelnosti/index.html">Основные направления деятельности</a></li><li   class="last"><a href="../about/istoriya-kompanii/index.html">История компании</a></li></ul></li><li><a href="../support/index.html"  class="js_nav-ac" >Техническая информация</a> <ul class="second-level"><li   class="first"><a href="../support/faq/index.html">Часто задаваемые вопросы (FAQ)</a></li><li  ><a href="../support/oprosnyij-list/index.html">Опросные лист</a></li><li  ><a href="../support/texnicheskaya-dokumentacziya/index.html">Техническая документация</a></li><li   class="last"><a href="../support/programmnoe-obespechenie/index.html">Программное обеспечение</a></li></ul></li><li><a href="../dlya-klientov/index.html"  class="js_nav-ac" >Для клиентов</a> <ul class="second-level"><li   class="first"><a href="../dlya-klientov/stati-v-presse/index.html">Статьи в прессе</a></li><li  ><a href="../dlya-klientov/otzyivyi-o-kompanii/index.html">Отзывы</a></li><li   class="last"><a href="../dlya-klientov/uchastie-v-vyistavkax/index.html">Участие в выставках</a></li></ul></li><li><a href="../kontaktyi/contacts/index.html"  class="last js_nav-ac" >Контакты</a> <ul class="second-level"><li   class="first"><a href="../kontaktyi/contacts/index.html">Контакты</a></li><li   class="last"><a href="../kontaktyi/dilerskaya-set/index.html">Дилерская сеть</a></li></ul></li>
+            </ul>
+        </div>
+    </div>
+</div>
+        
+    <script type="text/javascript" src="../assets/components/msearch2/js/web/default.js"></script>
+<script type="text/javascript" src="../assets/components/minifyx/cache/scripts_d5c711e0ef.min.js"></script>
+<script type="text/javascript" src="../assets/components/pdotools/js/pdopage.js"></script>
+<script type="text/javascript">pdoPage.initialize({"wrapper":"#pdopage_news","rows":"#pdopage_news .row","pagination":"#pdopage_news div.pagination_news","link":"#pdopage_news .pagination_news a","more":"#pdopage_news .btn-more","moreTpl":"<button class=\"btn btn-default btn-more\">pdopage_more<\/button>","mode":"default","history":1,"pageVarKey":"page_n","pageLimit":8,"assetsUrl":"\/assets\/components\/pdotools\/","connectorUrl":"\/assets\/components\/pdotools\/connector.php","pageId":7,"hash":"ffd895fc11f4699b31042e20eb3d72e255d71861"});</script>
+<script type="text/javascript" src="../assets/components/tickets/js/web/editor/jquery.markitup.js"></script>
+<script type="text/javascript" src="../assets/components/tickets/js/web/default.js"></script>
+</body>
+</html>
